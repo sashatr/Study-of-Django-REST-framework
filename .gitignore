@@ -104,6 +104,7 @@ ENV/
 env/
 db.sqlite3
 requirements.txt
+migrations/
 
 
 
